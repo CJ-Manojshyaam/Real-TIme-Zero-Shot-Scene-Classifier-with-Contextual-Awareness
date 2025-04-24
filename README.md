@@ -1,2 +1,0 @@
-# Real-TIme-Zero-Shot-Scene-Classifier-with-Contextual-Awareness
-This repository implements a state-of-the-art real-time scene understanding system,this system captures high-level contextual relationships (e.g., actions, interactions) without retraining, offering unmatched flexibility for applications in human-computer interaction, assistive, making it a powerful tool for open-domain scene interpretation.
